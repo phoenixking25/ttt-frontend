@@ -6,7 +6,7 @@ const reqOptions = {
     },
 }
 
-const url = "http://localhost:8080/";
+const url = "http://34.217.41.71:81/";
 
 const submitData = (formData) => {
     const success = (data) => {
