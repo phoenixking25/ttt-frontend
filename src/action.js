@@ -6,7 +6,7 @@ const reqOptions = {
     },
 }
 
-const url = "http://34.217.79.249/";
+const url = "http://34.217.79.249:81/";
 
 const submitData = (formData) => {
     const success = (data) => {
